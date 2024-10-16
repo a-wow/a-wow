@@ -11,6 +11,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-wow)](https://github.com/a-wow/github-readme-stats)
 ![](https://github.com/a-wow/snk/raw/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <a href="https://discord.gg/fREhU35VdQ" target="_blank">
+    <img align="center" src="https://lanyard.cnrad.dev/api/416812391003586571" />
+  </a>
+</p>
+
 <!--
 **a-wow/a-wow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
